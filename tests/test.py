@@ -5,7 +5,7 @@ from httplib2 import Http
 
 def main():
     """Hangouts Chat incoming webhook quickstart."""
-    url = 'https://chat.googleapis.com/v1/spaces/AAAA8i0ASns/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=mWELLnYKf300KJ7aLm9vtj5O26iRsjJ90XH5FMlC01A%3D'
+    url = 'CHANGEME'
     bot_message = {
         'text' : 'Hello from a Python script!'}
 
